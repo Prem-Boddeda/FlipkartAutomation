@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G23WHW+rmBeDbrp3wt/21t+DImyI3HS2g1pHUIef71FVhTqexWw0nUaQLKBuOgeEy1pnI95kKik3XML9V7l3pw==",
+  "success": true,
+  "projectFilePath": "H:\\Visual Studio\\AutomationAssignment\\AutomationAssignment\\AutomationAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\H P\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\H P\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
